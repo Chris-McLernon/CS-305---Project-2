@@ -1,2 +1,15 @@
 # CS-305---Project-2
 Project Two - Module Seven
+
+Brief: You work as a developer for a software engineering company, Global Rain, that specializes in custom software design and development. The software is for entrepreneurs, businesses, and government agencies around the world. Part of the company’s mission is that “Security is everyone’s responsibility.” Global Rain has promoted you to their new agile scrum team. At Global Rain, you work with a client, Artemis Financial, a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance.
+  Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a public web interface. They are seeking Global Rain’s expertise about how to protect their client data and financial information. Specifically, Artemis Financial wants to add a file verification step to their web application to ensure secure communications. When the web application is used to transfer data, they will need a data verification step in the form of a checksum. You must take their current software application and add secure communication mechanisms to meet their software security requirements. You’ll deliver a production quality integrated application that includes secure coding protocols.
+  
+Secure coding is crucial to safeguard software and systems against security threats, preventing data theft, system downtime, and financial losses. The benefits of software security include protection of sensitive data, maintenance of customer trust, prevention of financial losses, and compliance with regulations. By investing in secure coding practices, businesses can improve their overall wellbeing.
+
+Conducting regular security assessments, This involves testing the software system for vulnerabilities and weaknesses. This can be done using a combination of manual and automated tools to identify and assess potential security risks. Implementing secure coding practices,  This involves using coding techniques that are designed to make software systems more resilient to attacks. Examples of secure coding practices include input validation, data encryption, and secure authentication mechanisms.
+
+I triple checked all of my code. By mostl I ran it over and over again until I stopped gtting errors and the code was bug free. Then, I ran through my list of security checks. By using the Maven OWASP Dependency check, I was able to be certain I didn't introduce further security vulnerabilities. 
+
+The understanding of how web servers are handled and implemented as well as a basic grasp on the world of encryption and cybersecurity. These can all be useful skills as secure coding is a great skil to have when working towards becoming a software engineer
+
+I would show my understanding of checksum and keystore's and how to follow securre coding guidelines. I also would show my understanding over HTTP/HTTPS as I implemented the correct atttributes to make it an SSL connection.
